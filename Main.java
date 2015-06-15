@@ -75,8 +75,8 @@ public class Main
         findOccurrencesByFile("/Users/alejandro/Desktop/20_newsgroups/sci.electronics");
         findOccurrencesByFile("/Users/alejandro/Desktop/20_newsgroups/talk.politics.guns");
 
-        System.out.println("File was successfuly generated! :)");
-        System.out.println("Uri: " + file.getAbsolutePath());
+        System.out.println("\nARFF FILE WAS SUCCESSFULLY GENERATED!");
+        System.out.println("File location: " + file.getAbsolutePath());
 
     }
 
